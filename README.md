@@ -22,5 +22,5 @@ For more details on the project's implementation, please refer to the [project r
 
 ## Video Demonstration
 
-A video demonstration of the project is available [here](./docs/Video_Demonstration.mp4) available in this repository.
+A video demonstration of the project is available [here](./docs/vd.mp4) available in this repository.
 
