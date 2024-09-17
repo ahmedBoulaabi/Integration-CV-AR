@@ -18,7 +18,7 @@ This project combines computer vision and augmented reality to visualize pulmona
 
 ## Documentation
 
-For more details on the project's implementation, please refer to the [project report](./docs/report-AB.pdf) available in this repository.
+For more details on the project's implementation, please refer to the [project report](./docs/Report-AB.pdf) available in this repository.
 
 ## Video Demonstration
 
